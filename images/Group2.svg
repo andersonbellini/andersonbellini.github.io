@@ -1,10 +1,12 @@
-<svg width="119" height="26.999999999999996" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg width="119.00000000000001" height="26.999999999999996" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
 
  <title>Group 2</title>
  <desc>Created with Sketch.</desc>
  <g>
   <title>Layer 1</title>
-  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="18" id="svg_3" y="19.62098" x="0.28631" stroke-width="0" stroke="#000" fill="#000000">Bellini Software</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="16" id="svg_8" y="14.2384" x="38.192" stroke-width="0" stroke="#000" fill="#000000">Bellini</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="16" id="svg_9" y="25.41982" x="56.54642" stroke-width="0" stroke="#000" fill="#000000">Software</text>
+  <path id="svg_10" d="m3.59288,14.66034c1.68776,-4.85232 14.97889,1.47679 14.97251,1.3734c0.00638,0.10339 -0.62653,-9.39027 -0.63291,-9.49366c0.00638,0.10339 -9.06534,7.27638 -9.07172,7.17299c0.00638,0.10339 6.54646,7.06541 7.39034,7.48735c0.84388,0.42194 8.43881,-4.00844 8.43881,-4.64135" opacity="NaN" stroke-width="0" stroke="#000" fill="#000000"/>
  </g>
 </svg>
